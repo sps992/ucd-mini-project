@@ -5,6 +5,22 @@
     background-color: #676767;
 }
 
+.ui-menu-color-home{
+    background-color: #080909;
+}
+
+.ui-menu-color-resume{
+    background-color: #33989A;
+}
+
+.ui-menu-color-contact{
+    background-color: #999999;
+}
+
+.ui-menu-color-download{
+    background-color: #98C878;
+}
+
 /*---------------------------------------------Heading---*/
 
 header{
